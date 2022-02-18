@@ -17,7 +17,7 @@ npx cap run android
 ## Build apk
 
 ```
-cd /android
+cd android
 ./gradlew assembleDebug
 ```
 apk will be found in ./android/app/build/outputs/apk$ 
