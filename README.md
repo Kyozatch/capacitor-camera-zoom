@@ -20,4 +20,4 @@ npx cap run android
 cd android
 ./gradlew assembleDebug
 ```
-apk will be found in ./android/app/build/outputs/apk$ 
+apk will be found in ./android/app/build/outputs/apk
