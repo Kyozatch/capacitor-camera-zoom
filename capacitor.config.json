@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "camera-basic",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
